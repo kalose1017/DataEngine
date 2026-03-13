@@ -1,0 +1,26 @@
+[
+    {
+        "Name":"Kalose",
+        "Age":"25.0",
+        "Job":"Student",
+        "City":"Seoul"
+    },
+    {
+        "Name":"Mentor",
+        "Age":"35.0",
+        "Job":"Senior DE",
+        "City":"Busan"
+    },
+    {
+        "Name":"Junior",
+        "Age":"20.0",
+        "Job":"Begineer",
+        "City":"Incheon"
+    },
+    {
+        "Name":"Error_User",
+        "Age":"Unknown",
+        "Job":"Unknown",
+        "City":"Unknown"
+    }
+]
