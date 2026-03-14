@@ -10,3 +10,4 @@ print('JSON Saved!')
 
 df.to_parquet('data.parquet', engine='pyarrow')
 print('Parquet Saved!')
+print('---')
